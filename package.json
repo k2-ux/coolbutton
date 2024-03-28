@@ -1,0 +1,38 @@
+{
+  "name": "react-native-coolbutton",
+  "version": "1.0.0",
+  "description": "an npm package for a cool button",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "devDependencies": {
+    "@react-native/eslint-config": "^0.73.1",  
+    "@types/react": "^18.2.44",
+    "eslint": "^8.51.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "jest": "^29.7.0",
+    "prettier": "^3.0.3",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-builder-bob": "^0.20.0",
+    "release-it": "^15.0.0",
+    "typescript": "^5.2.2"
+  },
+  "type":"module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2-ux/coolbutton.git"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "Kamal Khastagir",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/k2-ux/coolbutton/issues"
+  },
+  "homepage": "https://github.com/k2-ux/coolbutton#readme"
+}
